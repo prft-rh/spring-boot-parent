@@ -82,13 +82,6 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-	
-	<distributionManagement>
-		<repository>
-			<id>nexus</id>
-			<url>http://nexus-search-poc.apps.cluster-prft-06ff.prft-06ff.example.opentlc.com/repository/maven-releases/</url>
-		</repository>
-	</distributionManagement>
 
 	<build>
 		<plugins>
